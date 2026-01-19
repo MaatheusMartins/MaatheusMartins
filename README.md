@@ -1,16 +1,19 @@
-## Hi there 👋
+# Matheus Martins
 
-<!--
-**MaatheusMartins/MaatheusMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Java | ☁️ Cloud | ⚙️ DevOps  
+📍 Jundiaí - SP, Brasil
 
-Here are some ideas to get you started:
+Desenvolvedor com experiência em **Java**, **APIs REST**, **microsserviços** e **cloud (AWS e Azure)**, atuando também com **infraestrutura e ambientes produtivos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+- Java (JPA, APIs REST)
+- AWS | Azure
+- Linux | CI/CD
+- MySQL | SQL Server
+
+---
+
+📧 matheusmartins0999@gmail.com  
+💼 linkedin.com/in/mats-martins
