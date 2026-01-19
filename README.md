@@ -14,7 +14,7 @@ Desenvolvedor com experiência em **Java**, **APIs REST**, **microsserviços** e
 ##
 
 <div align="center">
-  <img height="180em" width="50%" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MaatheusMartins&type=languages&chart=bars"/>
+  <img height="180em" width="50%" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MaatheusMartins&type=languages&theme=github&chart=bars"/>
 </div>
   
 <div align="center">
